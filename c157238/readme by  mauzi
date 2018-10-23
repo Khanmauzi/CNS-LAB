@@ -1,0 +1,13 @@
+after installation 
+
+
+1.Add the library
+  sudo apt-get install libgmp3-dev
+
+
+
+
+2. write the file and save as .cpp
+
+3. to compile :
+    g++ first.cpp -lgmpxx -lgmp
